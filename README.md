@@ -30,28 +30,26 @@ This is a Reddit-style forum feature module developed for the **MYUNiVRS** app, 
 
 ## 🖼️ UI Screenshots
 
-Here are some visual previews of the Reddit-style Forum module:
 
-<div align="center">
 
-<img src="image/img1.png" width="250"/>
-<img src="image/img2.png" width="250"/>
-<img src="image/img3.png" width="250"/>
-<img src="image/img4.png" width="250"/>
+<table>
+  <tr>
+    <td><img src="assets/img1.jpg" width="250"/></td>
+    <td><img src="assets/img2.jpg" width="250"/></td>
+    <td><img src="assets/img3.jpg" width="250"/></td>
+    <td><img src="assets/img4.jpg" width="250"/></td>
+  </tr>
+</table>
 
 </div>
 
-> 📁 Place your screenshots in `public/image/` or `assets/image/` based on your project structure.
 
----
 
 ## 🛠️ Technologies Used
 
 - **Frontend**: Flutter
 - **Backend**: Node.js + Express
-- **Database**: MongoDB
-- **Authentication**: JWT-based (OAuth available at registration)
-- **Hosting**: Firebase (planned for full app)
+
 
 ---
 
